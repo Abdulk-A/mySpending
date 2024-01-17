@@ -1,5 +1,5 @@
 # mySpending
-A iOS expense tracker app.
+An iOS expense tracker app.
 
 <h2>What is mySpending?</h2>
 <p>mySpending is an iOS application that keeps track of your expenses</p>
